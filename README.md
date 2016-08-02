@@ -5,7 +5,7 @@ As a side effect, this can also train a pretty decent speech recognition engine 
 (It is advised that you use audio/text sources from the public domain)
 
 Inputs:
-- A MP3 files containing speech (e.g. audiobook files, film audio track)
+- MP3 files containing speech (e.g. audiobook files, film audio track)
 - A text file containing the whole transcript of the MP3 file(s) (e.g. book text, film subtitles/script)
 
 Outputs:
@@ -19,8 +19,8 @@ Requirements:
 Installation:
 - (installation)
 
-Use:
-- (use)
+How To Use:
+- (how to)
 
 Background
 
